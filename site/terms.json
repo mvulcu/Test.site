@@ -1,0 +1,206 @@
+[
+    {
+        "title": "Cloud Computing",
+        "description": "The practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer."
+    },
+    {
+        "title": "Infrastructure as a Service (IaaS)",
+        "description": "A cloud computing service model where a third-party provider hosts virtualized computing resources over the Internet, such as servers, storage, and networking hardware."
+    },
+    {
+        "title": "Platform as a Service (PaaS)",
+        "description": "A cloud computing model that provides a platform for developers to create, run, and manage applications without the complexity of building and maintaining the infrastructure."
+    },
+    {
+        "title": "Software as a Service (SaaS)",
+        "description": "A software licensing and delivery model in which software is centrally hosted and licensed on a subscription basis, accessed via a web browser over the Internet."
+    },
+    {
+        "title": "Hybrid Cloud",
+        "description": "A cloud computing environment that uses a mix of on-premises private cloud and third-party public cloud services with orchestration between the two platforms."
+    },
+    {
+        "title": "Scalability",
+        "description": "The ability of a cloud computing system to handle growing amounts of work by adding resources, such as servers or storage capacity, to meet the increasing demand."
+    },
+    {
+        "title": "Elasticity",
+        "description": "The ability of a cloud system to automatically scale computing resources up or down based on demand, ensuring optimal resource utilization and cost-efficiency."
+    },
+    {
+        "title": "Cloud Migration",
+        "description": "The process of moving data, applications, or other business elements from an organization's on-premises infrastructure to the cloud or from one cloud platform to another."
+    },
+    {
+        "title": "Cloud Security",
+        "description": "The set of control-based technologies and policies designed to adhere to regulatory compliance rules and protect information, data applications, and infrastructure associated with cloud computing."
+    },
+    {
+        "title": "Serverless Computing",
+        "description": "A cloud computing execution model in which the cloud provider allocates machine resources on demand, managing the servers on behalf of their customers."
+    },
+    {
+        "title": "Microsoft Azure",
+        "description": "A cloud computing platform and infrastructure created by Microsoft for building, deploying, and managing applications and services through a global network of Microsoft-managed data centers."
+    },
+    {
+        "title": "AWS (Amazon Web Services)",
+        "description": "A comprehensive, evolving cloud computing platform provided by Amazon, offering a mix of infrastructure as a service (IaaS), platform as a service (PaaS), and packaged software as a service (SaaS) offerings."
+    },
+    {
+        "title": "GCP (Google Cloud Platform)",
+        "description": "A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube."
+    },
+    {
+        "title": "Azure DevOps",
+        "description": "A set of development tools, including Azure Repos, Azure Pipelines, Azure Boards, and Azure Test Plans, to help manage software development projects."
+    },
+    {
+        "title": "Azure Functions",
+        "description": "A serverless compute service that enables running code on-demand without having to explicitly provision or manage infrastructure."
+    },
+    {
+        "title": "Azure Logic Apps",
+        "description": "A cloud service that helps automate the creation of workflows, processes, and logic across multiple apps and services without writing code."
+    },
+    {
+        "title": "Terraform",
+        "description": "An open-source infrastructure as code software tool created by HashiCorp, used for building, changing, and versioning infrastructure safely and efficiently across various cloud providers."
+    },
+    {
+        "title": "Kubernetes",
+        "description": "An open-source container orchestration system for automating software deployment, scaling, and management, originally designed by Google and now maintained by the Cloud Native Computing Foundation."
+    },
+    {
+        "title": "Docker",
+        "description": "A set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers, providing a layer of abstraction and automation of OS-level virtualization on Windows and Linux."
+    },
+    {
+        "title": "CI/CD Pipelines",
+        "description": "A practice in DevOps that aims to automate the software delivery process, focusing on Continuous Integration (CI) and Continuous Delivery or Deployment (CD) to enable frequent, reliable software releases."
+    },
+    {
+        "title": "Jenkins",
+        "description": "An open-source automation server that helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery (CI/CD)."
+    },
+    {
+        "title": "Git",
+        "description": "A free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+    },
+    {
+        "title": "Exchange Online",
+        "description": "A hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service, providing email, calendar, contacts, and tasks."
+    },
+    {
+        "title": "SharePoint Online",
+        "description": "A cloud-based service that helps organizations share and manage content, knowledge, and applications to empower teamwork, quickly find information, and seamlessly collaborate across the organization."
+    },
+    {
+        "title": "Microsoft Teams",
+        "description": "A unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage, and application integration."
+    },
+    {
+        "title": "OneDrive for Business",
+        "description": "A personal cloud storage service that integrates with Office 365, allowing users to store, sync, and share files across devices easily."
+    },
+    {
+        "title": "Microsoft Defender for Office 365",
+        "description": "An email filtering service that helps protect organizations against advanced threats such as phishing attacks and malware."
+    },
+    {
+        "title": "Azure DDoS Protection",
+        "description": "A service that helps protect Azure resources from Distributed Denial of Service (DDoS) attacks by providing always-on traffic monitoring and real-time mitigation."
+    },
+    {
+        "title": "Azure Information Protection (AIP)",
+        "description": "A cloud-based solution that enables organizations to classify, label, and protect documents and emails across various platforms and devices."
+    },
+    {
+        "title": "Azure Advanced Threat Protection (ATP)",
+        "description": "A cloud-based security solution that identifies, detects, and investigates advanced threats, compromised identities, and malicious insider actions directed at an organization."
+    },
+    {
+        "title": "Microsoft Defender for Identity",
+        "description": "A cloud-based security solution that uses Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at an organization."
+    },
+    {
+        "title": "Microsoft Secure Score",
+        "description": "A measurement of an organization's security posture based on regular activities, providing recommendations to improve overall cybersecurity."
+    },
+    {
+        "title": "Azure Service Fabric",
+        "description": "A distributed systems platform for packaging, deploying, and managing scalable and reliable microservices and containers."
+    },
+    {
+        "title": "Azure Cosmos DB",
+        "description": "A globally distributed, multi-model database service that supports document, key-value, wide-column, and graph databases."
+    },
+    {
+        "title": "Azure Event Grid",
+        "description": "A fully managed event routing service that allows for uniform event consumption using a publish-subscribe model."
+    },
+    {
+        "title": "Azure Monitor",
+        "description": "A comprehensive monitoring solution for collecting, analyzing, and acting on telemetry from cloud and on-premises environments."
+    },
+    {
+        "title": "Azure AD Multi-Factor Authentication (MFA)",
+        "description": "An authentication method that requires users to provide two or more pieces of evidence (or factors) to verify their identity, such as something they know (password), something they have (trusted device), or something that is a part of them (biometrics)."
+    },
+    {
+        "title": "Azure AD Self-Service Password Reset (SSPR)",
+        "description": "Allows users to reset or unlock their passwords or accounts on their own, without having to contact an administrator or helpdesk."
+    },
+    {
+        "title": "Azure AD Password Protection",
+        "description": "Helps organizations eliminate easily guessed passwords from their environment by enforcing a global and custom banned password list."
+    },
+    {
+        "title": "Azure AD Smart Lockout",
+        "description": "Protects against brute-force attacks by locking out bad actors who try to guess users' passwords while allowing legitimate users to continue to access their accounts."
+    },
+    {
+        "title": "Azure AD Passwordless Authentication",
+        "description": "Allows users to sign in without using a password, using methods such as Windows Hello, Microsoft Authenticator app, FIDO2 security keys, etc."
+    },
+    {
+        "title": "Conditional Access Policies",
+        "description": "Allow enforcing access controls, such as requiring multi-factor authentication (MFA), based on specific conditions, like sign-in location, device used, user role, and sign-in risk."
+    },
+    {
+        "title": "Azure AD Identity Protection",
+        "description": "Provides a consolidated view of users at risk and risky sign-ins, enabling the configuration of automated responses to detected threats."
+    },
+    {
+        "title": "Azure AD Risk Events",
+        "description": "Used in Azure AD Identity Protection to calculate user and sign-in risk, including leaked credentials, sign-ins from anonymous IP addresses, impossible travel to atypical locations, and sign-ins from infected devices."
+    },
+    {
+        "title": "Azure AD Terms of Use",
+        "description": "Enables organizations to present information for users to acknowledge and accept before accessing an application or service, helping to ensure compliance with corporate policies or regulatory requirements."
+    },
+    {
+        "title": "Azure AD Access Reviews",
+        "description": "Allows organizations to manage group membership, access to enterprise applications, and role assignments efficiently, ensuring users have appropriate access and reducing security risks from stale access permissions."
+    },
+    {
+        "title": "Azure AD Privileged Identity Management (PIM)",
+        "description": "Provides time-based and approval-based role activation to mitigate the risks of excessive, unnecessary, or misused access permissions."
+    },
+    {
+        "title": "Azure AD Application Proxy",
+        "description": "Provides secure remote access to on-premises web applications, allowing users to access internal applications in the same way they access Microsoft 365 and other SaaS apps integrated with Azure AD."
+    },
+    {
+        "title": "Azure AD B2B (Business-to-Business) Collaboration",
+        "description": "Allows organizations to securely share applications and services with guest users from any other organization, while maintaining control over their own corporate data."
+    },
+    {
+        "title": "Azure AD B2C (Business-to-Consumer)",
+        "description": "An identity management service that enables custom control of how users sign up, sign in, and manage their profiles when using an organization's web, desktop, mobile, or single-page applications."
+    },
+    {
+        "title": "Azure AD Domain Services",
+        "description": "Provides managed domain services such as domain join, group policy, LDAP, and Kerberos/NTLM authentication, without the need to deploy, manage, and patch domain controllers."
+    }
+]
